@@ -1,9 +1,0 @@
-KreateBots
- /data
-  users.db
- /src
-  /bots
-   /discordbot
-    run.py
- config.py
- run.py
