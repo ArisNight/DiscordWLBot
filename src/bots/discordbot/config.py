@@ -1,5 +1,5 @@
 ADMIN_CHANNEL = 1236286329822773250 #Insert your channel ID with the questionnaires
-DIS_TOKEN = 'DISCORD TOKEN'
+DIS_TOKEN = 'YOUR TOKEN'
 
 HOST = '127.0.0.1'
 PORT = 25575
